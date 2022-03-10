@@ -1,5 +1,25 @@
 # npm-compile-sass
+```
+root build
+-----------------
 
+main folder
+|
+|___public
+|
+|___src
+      |
+      |___sass
+      |      |
+      |      |___components-sass-folders
+      |      |
+      |      |___sass.style
+      |
+      |___assets
+      |
+      |___index.html
+      
+```
 
 ```
 {
